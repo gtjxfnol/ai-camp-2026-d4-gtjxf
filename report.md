@@ -3,7 +3,7 @@
 ## 1. 本日问题
 
 - 里程碑：day-04
-- 学生或小组：LHL
+- 学生或小组：为ai发电
 - 使用者：需要从历史档案中找证据、且不能凭空回答的新闻编辑研究助理
 - 真实输入：Kaggle BBC News Archive `tfidf_dataset.csv`（2,225 篇真实文章，business/entertainment/politics/sport/tech 五类）
 - 需要的输出：对自然语言问题按余弦相似度返回 top-k 文章与文档编号；支持时引用、无支持时拒绝
