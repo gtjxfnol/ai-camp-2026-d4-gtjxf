@@ -1,0 +1,17 @@
+{
+  "milestone": "day-04",
+  "team": "LHL",
+  "members": [
+    "任彤",
+    "张满",
+    "张传喆",
+    "汪桐葳"
+  ],
+  "repository_url": "https://github.com/www08162026/day-04-grounded-agent",
+  "run_command": "python app.py --evaluate",
+  "test_command": "python -m unittest discover -s tests -v",
+  "report": "report.md",
+  "presentation": "presentation.pptx",
+  "presentation_minutes": 3,
+  "student_confirmed_no_secrets": true
+}
